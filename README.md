@@ -8,10 +8,16 @@
 
 ## 📸 Media & Visuals
 
-Here is the visual concept and mobile interface of the **Gardon SmartThinks** ecosystem:
+Here are the visual concepts, architectural designs, and mobile interfaces of the **Gardon SmartThinks** ecosystem:
 
-### 🧠 System Concept & AI Architecture
+### 🌟 Project Concept Visual
 ![AI Architecture Concept](demo/ai_architecture_concept.jpg)
+
+### 🔌 Physical & Logical IoT System Architecture
+![System Architecture](demo/iot_system_architecture.jpg)
+
+### 🧠 AI Cognitive Orchestration Loop
+![AI Cognitive Loop](demo/ai_cognitive_loop.jpg)
 
 ### 📱 Main User Interface
 ![Main UI Dashboard](demo/main_ui.png)
