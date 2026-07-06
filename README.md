@@ -14,7 +14,6 @@ Here are the visual concepts, architectural designs, and mobile interfaces of th
 ![AI Architecture Concept](demo/ai_architecture_concept.jpg)
 
 ### 🔌 Physical & Logical IoT System Architecture
-![System Architecture](demo/system_architecture_diagram.jpg)
 <img width="1376" height="768" alt="system_architecture_diagram" src="https://github.com/user-attachments/assets/a01b30c1-6d8e-495b-886f-6515f39f342d" />
 
 ### 🧠 AI Cognitive Orchestration Loop
