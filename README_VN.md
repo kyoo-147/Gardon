@@ -14,7 +14,7 @@ Dưới đây là các sơ đồ kiến trúc, hình ảnh ý tưởng và giao 
 ![AI Architecture Concept](demo/ai_architecture_concept.jpg)
 
 ### 🔌 Sơ Đồ Kiến Trúc Hệ Thống IoT (Vật Lý & Logic)
-![System Architecture](demo/system_architecture_diagram.jpg)
+<img width="1376" height="768" alt="system_architecture_diagram" src="https://github.com/user-attachments/assets/a01b30c1-6d8e-495b-886f-6515f39f342d" />
 
 ### 🧠 Sơ Đồ Điều Phối Và Nhận Thức AI (Cognitive Agent Loop)
 ![AI Cognitive Loop](demo/ai_agent_loop_diagram.jpg)
