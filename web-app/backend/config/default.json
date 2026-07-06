@@ -1,0 +1,28 @@
+{
+  "mqtt": {
+    "defaultBroker": {
+      "clientId": "navincase01",
+      "host": "mqtt.eclipseprojects.io",
+      "port": 1883,
+      "protocol": "mqtt"
+    },
+    "topics": {
+      "qos0": "/topic/qos0",
+      "qos1": "/topic/qos1",
+      "led_gpio22": "/esp32/led/gpio22",
+      "led_gpio23": "/esp32/led/gpio23",
+      "status": "/esp32/status",
+      "response": "/esp32/response"
+    },
+    "reconnectPeriod": 1000,
+    "connectTimeout": 30000
+  },
+  "server": {
+    "port": 3001,
+    "corsOrigin": "http://localhost:5173"
+  },
+  "esp32": {
+    "statusTimeout": 30000,
+    "supportedGPIOs": [22, 23]
+  }
+}

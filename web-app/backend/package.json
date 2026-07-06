@@ -1,0 +1,29 @@
+{
+  "name": "mqtt-esp32-backend",
+  "version": "1.0.0",
+  "description": "Node.js backend for ESP32 MQTT control",
+  "main": "src/server.js",
+  "scripts": {
+    "start": "node src/server.js",
+    "dev": "nodemon src/server.js",
+    "build": "echo 'No build step required for Node.js'"
+  },
+  "keywords": [
+    "mqtt",
+    "esp32",
+    "websocket",
+    "iot"
+  ],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.21.2",
+    "mqtt": "^5.13.3",
+    "socket.io": "^4.8.1",
+    "ws": "^8.18.3"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.10"
+  }
+}

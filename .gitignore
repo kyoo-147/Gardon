@@ -1,0 +1,59 @@
+# Dependencies
+node_modules/
+**/node_modules/
+package-lock.json
+**/package-lock.json
+
+# Environment variables & secrets
+.env
+**/.env
+.env.local
+.env.*.local
+
+# Logs
+logs/
+**/logs/*.json
+**/logs/*.log
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Expo & Mobile builds
+.expo/
+**/.expo/
+*.apk
+*.ipa
+android/build/
+ios/build/
+web-build/
+
+# IDE & Editor files
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
+# Python
+__pycache__/
+**/__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.env/
+venv/
+.venv/
+env/
+/llm-agent/temp/
+/llm-agent/audio/
+
+# Build & Dist
+dist/
+**/dist/
+build/
+**/build/
+out/
+.next/
