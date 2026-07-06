@@ -18,6 +18,23 @@ Here is the visual concept and mobile interface of the **Gardon SmartThinks** ec
 ![Mobile Call UI](demo/ui_2.png)
 
 ### 🎥 Demo Video
+
+<div align="center">
+
+<video src="https://github.com/user-attachments/assets/71ddfdce-e5fe-4c1b-bba1-ce17c8925c04" width="850" controls>
+ Your browser does not support the video tag.
+</video>
+
+<br />
+
+<a href="https://github.com/user-attachments/assets/71ddfdce-e5fe-4c1b-bba1-ce17c8925c04">
+ Watch demo video
+</a>
+
+</div>
+
+<br />
+
 A full-length video demonstration is archived in the repository. You can watch/download it here: [demo.mp4](demo/demo.mp4).
 
 ---
