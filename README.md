@@ -10,6 +10,9 @@
 
 Here are the visual concepts, architectural designs, and mobile interfaces of the **Gardon SmartThinks** ecosystem:
 
+### 🌟 Project Concept
+![AI Architecture Concept](demo/ai_architecture_concept.jpg)
+
 ### 🔌 Physical & Logical IoT System Architecture
 <img width="1376" height="768" alt="system_architecture_diagram" src="https://github.com/user-attachments/assets/a01b30c1-6d8e-495b-886f-6515f39f342d" />
 
