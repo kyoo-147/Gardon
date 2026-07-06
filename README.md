@@ -15,6 +15,7 @@ Here is the visual concept and mobile interface of the **Gardon SmartThinks** ec
 
 ### 📱 Main User Interface
 ![Main UI Dashboard](demo/main_ui.png)
+![Mobile Call UI](demo/ui_2.png)
 
 ### 🎥 Demo Video
 A full-length video demonstration is archived in the repository. You can watch/download it here: [demo.mp4](demo/demo.mp4).
