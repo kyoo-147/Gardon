@@ -14,10 +14,10 @@ Dưới đây là các sơ đồ kiến trúc, hình ảnh ý tưởng và giao 
 ![AI Architecture Concept](demo/ai_architecture_concept.jpg)
 
 ### 🔌 Sơ Đồ Kiến Trúc Hệ Thống IoT (Vật Lý & Logic)
-![System Architecture](demo/iot_system_architecture.jpg)
+![System Architecture](demo/system_architecture_diagram.jpg)
 
 ### 🧠 Sơ Đồ Điều Phối Và Nhận Thức AI (Cognitive Agent Loop)
-![AI Cognitive Loop](demo/ai_cognitive_loop.jpg)
+![AI Cognitive Loop](demo/ai_agent_loop_diagram.jpg)
 
 ### 📱 Giao diện Ứng dụng Di động
 ![Giao diện Dashboard App](demo/main_ui.png)

@@ -14,10 +14,10 @@ Here are the visual concepts, architectural designs, and mobile interfaces of th
 ![AI Architecture Concept](demo/ai_architecture_concept.jpg)
 
 ### 🔌 Physical & Logical IoT System Architecture
-![System Architecture](demo/iot_system_architecture.jpg)
+![System Architecture](demo/system_architecture_diagram.jpg)
 
 ### 🧠 AI Cognitive Orchestration Loop
-![AI Cognitive Loop](demo/ai_cognitive_loop.jpg)
+![AI Cognitive Loop](demo/ai_agent_loop_diagram.jpg)
 
 ### 📱 Main User Interface
 ![Main UI Dashboard](demo/main_ui.png)
